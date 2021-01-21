@@ -11,14 +11,14 @@ In order for you to use this program you must have the following installed on yo
 3. Numpy
 4. Pynput
 
-Ensure that you have downloaded both the python (MainHGC.py) and the XML(Harcasscade) file. Note* I do not own the harcasscade nor have created it, you may download it from anywhere but do note that you might need to change the values (Detect Multi Scale) accordingly. 
+Ensure that you have downloaded both the python (MainHGC.py) and the XML(Haarcascade) file. Note* I do not own the haarcascade nor have created it, you may download it from anywhere but do note that you might need to change the values (Detect Multi Scale) accordingly. 
 
 Make sure you have dowloaded all the necessary files.
 
 After extracting the files, follow these steps-
-1. Ensure that all the content is in a same folder.
+1. Ensure that all the content is in the same folder.
 2. Open MainHGC.py
-3. Then delete the XML file path(7th Line) and replace it with your XML(Handcascade) file path you just downloaded.
+3. Then delete the XML file path(7th Line) and replace it with your XML(Hand.xml) file path you just downloaded.
 4. Huzza! Now all that's left is to run the Program in the backgroud and open the game(Example T-rex(Chrome Game)).
 Note* Ensure that the camera window is visible on the screen 
 
